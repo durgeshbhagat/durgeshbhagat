@@ -4,11 +4,7 @@
 ### 🔭 Career
 - Received the B.Tech. degrees, in Information and Technology from Haldia Institute of Technology, West Bengal, India, in 2012.
 - Persuing Ph.D. in Computer Science and Enginerring from Indian Institute of Technology, Guwahati, Assam, India.
-<!--
-- Received the M.S. degrees, in Electrical and Computer Engineering from Seoul National University, Seoul, Korea, in 2018.
-- Joined the SUALAB. ,Seoul, Korea, as a **Deep Learning Research Engineer**, in 2018.
-- SUALAB was acquired by Cognex in 2019.10. So, I am currently working at Cognex. 
--->
+
 ### 🌱 Interest
 - **Natural Language Processing**
     - Classification
@@ -21,11 +17,8 @@
 ### 📫 How to reach me
 - github: https://github.com/durgeshbhagat/
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshbhagat&show_icons=true" alt="durgeshbhagat" /></p>
 
-<p align="center"> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=durgeshbhagat&show_icons=true" alt="durgeshbhagat" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshbhagat&layout=compact" alt="durgeshbhagat" />
-</p>
 
 
 <!--
