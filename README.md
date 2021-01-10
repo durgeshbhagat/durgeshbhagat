@@ -21,6 +21,13 @@
 ### 📫 How to reach me
 - github: https://github.com/durgeshbhagat/
 
+
+<p align="center"> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=durgeshbhagat&show_icons=true" alt="durgeshbhagat" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshbhagat&layout=compact" alt="durgeshbhagat" />
+</p>
+
+
 <!--
 ### Hi there 👋
 
