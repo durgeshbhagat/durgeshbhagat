@@ -12,6 +12,8 @@
     - Topic Modeling
 - **Social Media Mining**
 - **Sentiment and Emotion Analysis**
+- ** Fake News Detection
+- ** Mining relationship between attributes/entities
 
 
 ### 📫 How to reach me
