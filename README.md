@@ -11,7 +11,7 @@
     - Clustering
     - Topic Modeling
 - **Social Media Mining**
-- **Sentiment and Emotion Analysis**
+- **Sentiment Analysis and Emotion Dynamics**
 - **Fake News Detection**
 - **Mining relationship between attributes/entities**
 
