@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoya012" alt="durgeshbhagat" /> </p>
 
 ### 🔭 Career
-- Received the B.Tech. degrees, in Information and Technology from Haldia Institute of Technology, West Bengal, India in 2012.
+- Received the B.Tech. degree, in Information and Technology from Haldia Institute of Technology, West Bengal, India in 2012.
 - Completed Ph.D. in Computer Science and Enginerring from Indian Institute of Technology, Guwahati, Assam, India in 2022.
 
 ### 🌱 Interest
